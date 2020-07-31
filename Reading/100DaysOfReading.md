@@ -9,6 +9,8 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 | 3 | Bad Science | 35 |
 | 4 | Bad Science | 7  |
 | 5 | Bad Science | 4  |
-| 6 | Bad Science |  |
+| 6 | Bad Science | 38 |
+| 7 | Bad Science |  |
+
 
 
