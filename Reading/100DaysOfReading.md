@@ -24,7 +24,9 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 |18 | Bad Science | 3  |
 |19 | Bad Science | 4  |
 |20 | Bad Science | 28 |
-|21 | Bad Science | |
+|21 | Bad Science & A História Secreta do Mundo | 36 + 42 |
+|22 | A História Secreta do Mundo | |
+
 
 
 
