@@ -39,7 +39,9 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 |33 | A História Secreta do Mundo | 21 |
 |34 | A História Secreta do Mundo | 10 |
 |35 | A História Secreta do Mundo | 23 |
-|36 | A História Secreta do Mundo |  |
+|36 | A História Secreta do Mundo | 6  |
+|37 | A História Secreta do Mundo | 3  |
+|38 | A História Secreta do Mundo |  |
 
 
 
