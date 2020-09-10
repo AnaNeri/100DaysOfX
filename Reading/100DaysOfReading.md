@@ -48,7 +48,9 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 |42 | A História Secreta do Mundo | 20 |
 |43 | FAILED      | 0  |
 |44 | A História Secreta do Mundo | 23 |
-|44 | A História Secreta do Mundo |  |
+|45 | A História Secreta do Mundo | 11 |
+|46 | A História Secreta do Mundo | 18 |
+|47 | A História Secreta do Mundo |  |
 
 
 
