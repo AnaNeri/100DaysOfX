@@ -54,7 +54,8 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 |48 | A História Secreta do Mundo | 33 |
 |49 | A História Secreta do Mundo | 36 |
 |50 | 365 dias com a história de Portugal | 14 |
-|51 | 365 dias com a história de Portugal | |
+|51 | 365 dias com a história de Portugal | 2 |
+|52 | 365 dias com a história de Portugal | |
 
 
 
