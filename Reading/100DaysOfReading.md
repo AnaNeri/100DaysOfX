@@ -58,7 +58,11 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 |52 | 365 dias com a história de Portugal | 5 |
 |53 | 365 dias com a história de Portugal | 3 |
 |54 | 365 dias com a história de Portugal | 9 |
-|55 | 365 dias com a história de Portugal | |
+|55 | 365 dias com a história de Portugal | 9 |
+|56 | 365 dias com a história de Portugal | 3 |
+|57 | FAILED | 0 |
+|58 | O método Bullet Journal | All |
+|59 | 365 dias com a história de Portugal | |
 
 
 
