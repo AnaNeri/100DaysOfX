@@ -62,9 +62,12 @@ I challenge myself to read books unrelated to my PhD for the next 100 days.
 |56 | 365 dias com a história de Portugal | 3 |
 |57 | FAILED | 0 |
 |58 | O método Bullet Journal | All |
-|59 | A História do mundo para pessoas com pressa | 3 |
+|59 | A História do mundo para pessoas com pressa | 3  |
 |60 | A História do mundo para pessoas com pressa | 28 |
-|61 | 365 dias com a história de Portugal | |
+|61 | FAILED | 0 |
+|62 | A História do mundo para pessoas com pressa | 7  |
+|63 | A História do mundo para pessoas com pressa | 54 |
+|64 | 365 dias com a história de Portugal | |
 
 
 
